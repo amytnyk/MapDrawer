@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\mapdrawer\mapdrawer\getbyindex.hpp(15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\mapdrawer\mapdrawer\getbyindex.hpp(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\mapdrawer\mapdrawer\drawtext.hpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(87): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(284): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(293): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\mapdrawer\mapdrawer\main.cpp(294): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\mapdrawer\mapdrawer\getbyindex.hpp(23): warning C4715: 'GetByIndexI': not all control paths return a value
+c:\mapdrawer\mapdrawer\getbyindex.hpp(16): warning C4715: 'GetByIndexC': not all control paths return a value
+c:\mapdrawer\mapdrawer\main.cpp(159): warning C4715: 'GetConfigSelect': not all control paths return a value
+  MapDrawer.vcxproj -> C:\MapDrawer\x64\Debug\MapDrawer.exe
